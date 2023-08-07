@@ -1,8 +1,8 @@
 
 body {
-    font-family: 'Comic Sans Ms', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin:0;
-    background-color: 		#000000;
+    background-color: #1687A7;
 }
 
 p {
@@ -10,7 +10,7 @@ p {
     margin-top:10px;
 }
 td {
-    background-color:	#FFFFE0;
+    background-color: transparent;
     height:85px;
     width:85px;
 }
